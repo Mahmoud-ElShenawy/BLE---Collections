@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+BLEPeripheral in BLEPeripheral, no dependencies
+BLEPeripheral in BLEPeripheral, no dependencies

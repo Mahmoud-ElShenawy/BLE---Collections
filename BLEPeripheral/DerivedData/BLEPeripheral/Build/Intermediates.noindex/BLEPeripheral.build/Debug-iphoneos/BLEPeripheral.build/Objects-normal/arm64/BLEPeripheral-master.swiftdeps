@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "7e88b3688c251b89ce580fe8889ad4ac81711b69e7eb77e7315af8d91bacbc45"
+build_start_time: [1684071360, 655218124]
+build_end_time: [1684071360, 670929908]
+inputs:
+  "/Users/elshenawy/Desktop/BLEProof-collection-main/iOS/BLEPeripheral/BLEPeripheral/AppDelegate.swift": !private [1656853587, 0]
+  "/Users/elshenawy/Desktop/BLEProof-collection-main/iOS/BLEPeripheral/BLEPeripheral/BLEPeripheralViewController.swift": !private [1684070711, 604767799]

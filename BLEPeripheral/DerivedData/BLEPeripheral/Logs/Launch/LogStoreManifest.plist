@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0F009054-A495-4385-A784-D3CE2FD69ECF</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>79111C94-5BE9-4FD9-9AD8-5D2768EBF261</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-BLEPeripheral-2023.05.14_16-34-12-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BLEPeripheral project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BLEPeripheral</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BLEPeripheral</string>
+			<key>timeStartedRecording</key>
+			<real>705764052.96516001</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run BLEPeripheral</string>
+			<key>uniqueIdentifier</key>
+			<string>0F009054-A495-4385-A784-D3CE2FD69ECF</string>
+		</dict>
+		<key>9149F8B9-A481-47A1-9F86-D2DE67EA78D0</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>96397021-D2B7-41F4-B7C2-A9B2DC019ACD</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-BLEPeripheral-2023.05.14_16-36-00-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BLEPeripheral project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BLEPeripheral</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BLEPeripheral</string>
+			<key>timeStartedRecording</key>
+			<real>705764160.52669406</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run BLEPeripheral</string>
+			<key>uniqueIdentifier</key>
+			<string>9149F8B9-A481-47A1-9F86-D2DE67EA78D0</string>
+		</dict>
+		<key>D4E5CD15-6568-4CCC-9306-53552AE1E1F4</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>F7C5E90B-22FF-4738-9CE0-EA1657EE2E97</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-BLEProofPeripheral-2023.05.14_16-25-59-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BLEProofPeripheral project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BLEProofPeripheral</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BLEProofPeripheral</string>
+			<key>timeStartedRecording</key>
+			<real>705763559.483549</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run BLEProofPeripheral</string>
+			<key>uniqueIdentifier</key>
+			<string>D4E5CD15-6568-4CCC-9306-53552AE1E1F4</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
